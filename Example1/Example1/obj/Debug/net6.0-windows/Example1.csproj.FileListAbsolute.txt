@@ -1,0 +1,16 @@
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\bin\Debug\net6.0-windows\Example1.exe
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\bin\Debug\net6.0-windows\Example1.deps.json
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\bin\Debug\net6.0-windows\Example1.runtimeconfig.json
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\bin\Debug\net6.0-windows\Example1.dll
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\bin\Debug\net6.0-windows\Example1.pdb
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.Form1.resources
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.csproj.GenerateResource.cache
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.AssemblyInfoInputs.cache
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.AssemblyInfo.cs
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.csproj.CoreCompileInputs.cache
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.dll
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\refint\Example1.dll
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.pdb
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\Example1.genruntimeconfig.cache
+C:\Users\cevik\OneDrive\Masaüstü\C# Examples\Example1\Example1\obj\Debug\net6.0-windows\ref\Example1.dll
